@@ -1,0 +1,1135 @@
+@media (max-width: 1200px) {
+
+  /* banner sction */
+  .banner-text h1 {
+    font-size: 57px;
+  }
+
+  /* service section */
+  .servicerow {
+    padding: 70px 50px;
+  }
+
+  /* about section */
+  .about {
+    padding: 0px 50px;
+  }
+
+  .about-right-col h1 {
+    font-size: 35px;
+  }
+
+  .about-right-col {
+    margin-top: -10px;
+  }
+
+  /* food-menu section */
+  .food-menu {
+    padding: 0px 50px;
+  }
+
+  /* master chef section */
+  .master-chef {
+    padding: 50px 10px;
+
+  }
+
+  /* clint information section */
+  .clients-information {
+    padding: 0px 50px;
+    padding-bottom: 100px;
+  }
+
+  .slide {
+    flex: 0 0 50%;
+  }
+
+  /* footer section */
+  .footer-box input {
+    width: 100%;
+  }
+
+  .footer-btn {
+    padding: 10px 20px;
+    margin-left: -110px;
+  }
+
+  /* index page responsive end */
+
+  /* about page responsive start */
+
+  .about-banner {
+    margin-bottom: 100px;
+  }
+
+  /* about page responsive end */
+
+
+
+  /* contact page responsive start */
+
+  .contact-header {
+    justify-content: space-between;
+  }
+
+  /* contact page responsive end */
+
+}
+
+
+
+
+/* desktop veiw */
+
+@media (max-width: 992px) {
+
+  /* navbar */
+  .logo img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .logo h1 {
+    font-size: 30px;
+    margin-left: 0px;
+  }
+
+  .links {
+    gap: 11px;
+  }
+
+  .links .link {
+    font-size: 14px;
+  }
+
+  .dropbtn {
+    font-size: 14px;
+  }
+
+  .action_btn {
+    font-size: 14px;
+    padding: 8px 10px;
+  }
+
+  /* navbar end */
+
+  .banner-text h1 {
+    font-size: 40px;
+  }
+
+  .banner-text p {
+    font-size: 18px;
+  }
+
+  .banner-text {
+    margin-left: 40px;
+  }
+
+  /* banner section end */
+
+
+  /* service section start */
+  .service-box1 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .service-box2 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .service-box3 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .service-box4 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  /* service section end */
+
+  /* about section start */
+  .about {
+    padding: 0px 50px;
+    margin-bottom: 80px;
+  }
+
+  .about-right-col {
+    margin-top: -70px;
+  }
+
+  .about-number1 {
+    flex-wrap: nowrap;
+  }
+
+  .about-right-col h1 {
+    font-size: 29px;
+  }
+
+  .about-number h6 {
+    font-size: 13px;
+  }
+
+  .img-1 img {
+    height: 160px;
+  }
+
+  .img-4 img {
+    height: 160px;
+  }
+
+  /* about sesction ends */
+
+
+
+  /* food-menu section start */
+  .food-menu h1 {
+    font-size: 35px;
+  }
+
+  .border-p {
+    font-size: 15px;
+  }
+
+  .food-menu {
+    padding: 0px 50px;
+  }
+
+  /* food-menu section end */
+
+
+
+  /* booking-table section start */
+  .table-row-right-col h1 {
+    font-size: 30px;
+  }
+
+  .input-3 {
+    margin-right: 8px;
+  }
+
+  /* booking-table section end */
+
+
+
+
+  /* master-chefs start */
+  .master-chef {
+    padding: 50px 50px;
+  }
+
+  .chefs-col {
+    flex-basis: 47%;
+    margin-bottom: 50px;
+  }
+
+  /* master-chefs end */
+
+
+
+  /* client-information  start*/
+  .clients-information {
+    padding: 0px 50px;
+    padding-bottom: 100px;
+  }
+
+  .slide {
+    flex: 0 0 50%;
+  }
+
+
+  /* client-information  end*/
+
+  /* footer */
+
+  .footer-box input {
+    width: 100%;
+  }
+
+  .footer-box input {
+    padding: 20px 10px;
+  }
+
+  .footer-col1 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col2 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col3 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col4 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-btn {
+    margin-left: -110px;
+  }
+
+  /* index page responsive end */
+
+  /* about page responsive start */
+  .about-nav {
+    padding: 10px 10px;
+  }
+
+  .about-banner {
+    margin-bottom: 100px;
+  }
+
+  /* about page responsive end */
+
+
+  /* contact page responsive start */
+  .contact-header {
+    margin: 30px 60px;
+    margin-left: 120px;
+    justify-content: space-between;
+  }
+
+  .contact-map {
+    margin: 50px 0px;
+  }
+
+  .contact-item {
+    flex-basis: 31%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+
+  .contact-left-col {
+    flex-basis: 47%;
+  }
+
+  .contact-right-col {
+    flex-basis: 47%;
+  }
+
+  .contact-table {
+    padding: 50px 30px;
+
+  }
+
+  .mymap {
+    width: 110%;
+    height: 95%;
+  }
+
+}
+
+/* contact page responsive end *
+
+/* laptop veiw */
+
+@media (max-width: 768px) {
+
+  /* navbar */
+  .toggle_btn {
+    display: block;
+  }
+
+  .links {
+    display: none;
+    flex-direction: column;
+    background: #0f172b;
+    width: 100%;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    border-top: 1px gray solid;
+    padding: 15px 30px;
+    gap: 30px;
+    margin-top: -10px;
+  }
+
+  .links .link {
+    padding: 0px 0px;
+  }
+
+  .links.active {
+    display: flex;
+  }
+
+  .links li {
+    width: 100%;
+  }
+
+  .dropdown-content {
+    position: static;
+    display: none;
+    width: 100%;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown-content li a {
+    padding-left: 30px;
+  }
+
+  /* navbar ends */
+
+
+  /* bannersecrow2 start */
+  .bannersecrow2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .banner-text {
+    flex-basis: 100%;
+    text-align: center;
+    margin-left: 0px;
+  }
+
+  .banner-text h1 {
+    font-size: 35px;
+  }
+
+  .banner-img {
+    flex-basis: 100%;
+    text-align: center;
+    margin-top: 110px;
+  }
+
+  .banner-img img {
+    width: 75%;
+  }
+
+  /* banner section ends */
+
+
+
+  /* service section start */
+  .servicerow {
+    padding: 0px 30px;
+  }
+
+  .service-box1 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .service-box2 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .service-box3 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .service-box4 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  /* service section end */
+
+
+
+  /* about section start */
+  .about {
+    padding: 0px 30px;
+  }
+
+  .about-left-col {
+    flex-basis: 100%;
+  }
+
+  .about-right-col {
+    flex-basis: 100%;
+  }
+
+  .about-right-col h1 {
+    font-size: 22px;
+  }
+
+  .img-1 img {
+    height: 250px;
+  }
+
+  .img-4 img {
+    height: 250px;
+  }
+
+  /* about section end */
+
+
+
+
+  /* food-menu section start */
+  .food-menu {
+    padding: 0px 0px;
+  }
+
+  .food-menurow {
+    padding: 0px 30px;
+  }
+
+  .divider h5 {
+    font-size: 20px;
+  }
+
+  .food-menu h1 {
+    font-size: 22px;
+  }
+
+  .food-menurow .left-col {
+    flex-basis: 100%;
+  }
+
+  .food-menurow .right-col {
+    flex-basis: 100%;
+  }
+
+  .border-p {
+    text-align: start;
+    font-size: 15px;
+  }
+
+  .popular-items {
+    width: 360px;
+  }
+
+  /* food-menu section end */
+
+
+
+  /* booking-table section start */
+
+  .table-row-left-col {
+    flex-basis: 100%;
+  }
+
+  .table-row-right-col {
+    flex-basis: 100%;
+  }
+
+  .table-row-right-col h1 {
+    font-size: 22px;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  .input-name {
+    padding-top: 20px;
+    display: block;
+  }
+
+  .input-1 {
+    margin-bottom: 15px;
+  }
+
+  .input-number {
+    display: block;
+  }
+
+  .select-people {
+    width: 100%;
+  }
+
+  .input-4 {
+    margin-left: 0px;
+    padding: 10px;
+  }
+
+  .input-3 {
+    margin-bottom: 15px;
+  }
+
+  select {
+    width: 97%;
+    padding-bottom: 5px;
+  }
+
+  /* booking-table section end */
+
+
+
+  /* master chefs section start */
+  .master-chef {
+    padding: 50px 30px;
+  }
+
+  .item-divider h3 {
+    font-size: 16px;
+  }
+
+  .master-chef h2 {
+    font-size: 22px;
+  }
+
+  .chefs-col {
+    flex-basis: 47%;
+    margin-bottom: 50px;
+  }
+
+  /* master chefs section end */
+
+  /* clients-information section start */
+  .clients-information {
+    padding: 30px 30px;
+  }
+
+  .item-divider {
+    width: 220px;
+  }
+
+  .clients-information h2 {
+    font-size: 22px;
+  }
+
+  .slide {
+    flex: 0 0 100%;
+  }
+
+  /* clients-information section end */
+
+
+
+
+  /* footer4 section start */
+  .footer-col1 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col2 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col3 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col4 {
+    flex-basis: 47%;
+    margin-bottom: 30px;
+  }
+
+  .footer-item1 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .footer-item2 {
+    flex-basis: 100%;
+  }
+
+  .footer-item {
+    text-align: center;
+  }
+
+  .footer-box input {
+    width: 100%;
+  }
+
+  .footer-btn {
+    margin-left: -110px;
+  }
+
+  /* footer4 section end */
+
+  /* index page responsive end */
+
+
+
+  /* about page responsive start */
+  .about-banner {
+    margin-bottom: 80px;
+  }
+
+  .about-left-col {
+    margin-bottom: 100px;
+  }
+
+  /* about page responsive end */
+
+
+
+
+  /* contact page responsive start */
+  .contact-header {
+    margin: 30px 0px;
+    justify-content: start;
+  }
+
+  .contact-map {
+    margin: 50px 0px;
+  }
+
+  .contact-item {
+    flex-basis: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .contact-left-col {
+    flex-basis: 100%;
+    margin-bottom: 40px;
+  }
+
+  .contact-right-col {
+    flex-basis: 100%;
+    margin-top: 220px;
+  }
+
+  .contact-table {
+    padding: 50px 30px;
+
+  }
+
+  .mymap {
+    width: 103%;
+    height: 200%;
+  }
+
+  /* contact page responsive end */
+
+}
+
+/* tablet veiw */
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+
+  /* navbar start */
+  .toggle_btn {
+    display: block;
+  }
+
+  .links {
+    display: none;
+    flex-direction: column;
+    background: #0f172b;
+    width: 100%;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    border-top: 1px gray solid;
+    padding: 15px 30px;
+    gap: 30px;
+    margin-top: -10px;
+  }
+
+  .links .link {
+    padding: 0px 0px;
+  }
+
+  .links.active {
+    display: flex;
+  }
+
+  .links li {
+    width: 100%;
+  }
+
+  .dropdown-content {
+    position: static;
+    display: none;
+    width: 100%;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown-content li a {
+    padding-left: 30px;
+  }
+
+  /* navbar end */
+
+
+  /* bannersecrow2 start */
+  .bannersecrow2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .banner-text {
+    flex-basis: 100%;
+    text-align: center;
+    margin-left: 0px;
+  }
+
+  .banner-text h1 {
+    font-size: 40px;
+  }
+
+  .banner-img {
+    flex-basis: 100%;
+    text-align: center;
+    margin-top: 90px;
+  }
+
+  /* banner section ends */
+
+  /* service section start */
+  .servicerow {
+    padding: 0px 30px;
+  }
+
+  .service-box1 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .service-box2 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .service-box3 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .service-box4 {
+    flex-basis: 100%;
+  }
+
+  /* service section end */
+
+
+
+
+  /* about section start */
+
+  .about {
+    padding: 0px 30px;
+  }
+
+  .about-left-col {
+    flex-basis: 100%;
+  }
+
+  .about-right-col {
+    flex-basis: 100%;
+    margin-top: 0px;
+  }
+
+  .about-right-col h1 {
+    font-size: 22px;
+  }
+
+  .img-1 img {
+    height: 150px;
+  }
+
+  .img-4 img {
+    height: 150px;
+  }
+
+  .about-number-head h2 {
+    font-size: 35px;
+    border-left: 3px solid#FEA116;
+  }
+
+  .about-number h6 {
+    font-size: 14px;
+  }
+
+  .about-number1 {
+    flex-wrap: nowrap;
+    padding-right: 10px;
+  }
+
+  .about-number2 {
+    padding-left: 10px;
+  }
+
+  /* about section end */
+
+
+
+  /* food-menu section start */
+  .food-menu {
+    padding: 0px 0px;
+  }
+
+  .food-menurow {
+    padding: 0px 30px;
+  }
+
+  .divider h5 {
+    font-size: 20px;
+  }
+
+  .food-menu h1 {
+    font-size: 22px;
+  }
+
+  .food-menurow .left-col {
+    flex-basis: 100%;
+  }
+
+  .food-menurow .right-col {
+    flex-basis: 100%;
+  }
+
+  .border-p {
+    text-align: start;
+    font-size: 15px;
+  }
+
+  .popular-items {
+    width: 360px;
+  }
+
+  .item-list1 h5 {
+    font-size: 16px;
+  }
+
+  .item-list2 p {
+    font-size: 16px;
+  }
+
+  /* food-menu section end */
+
+
+
+
+  /* booking-table section start */
+
+  .table-row-left-col {
+    flex-basis: 100%;
+  }
+
+  .table-row-right-col {
+    flex-basis: 100%;
+  }
+
+  .table-row-right-col h1 {
+    font-size: 22px;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  .input-name {
+    padding-top: 20px;
+    display: block;
+  }
+
+  .input-1 {
+    margin-bottom: 15px;
+  }
+
+  .input-number {
+    display: block;
+  }
+
+  .select-people {
+    width: 100%;
+  }
+
+  select {
+    width: 95%;
+  }
+
+  .input-4 {
+    margin-left: 0px;
+    padding: 10px;
+  }
+
+  .input-3 {
+    margin-bottom: 15px;
+  }
+
+  /* booking-table section end */
+
+
+
+
+  /* master chefs section start */
+  .master-chef {
+    padding: 50px 30px;
+  }
+
+  .item-divider h3 {
+    font-size: 16px;
+  }
+
+  .master-chef h2 {
+    font-size: 22px;
+  }
+
+  .chefs-col {
+    flex-basis: 100%;
+    margin-bottom: 50px;
+  }
+
+  /* master chefs section end */
+
+
+
+  /* clients-information section start */
+
+  .clients-information {
+    padding: 30px 30px;
+  }
+
+  .item-divider {
+    width: 220px;
+  }
+
+  .clients-information h2 {
+    font-size: 22px;
+  }
+
+  .slide {
+    flex: 0 0 100%;
+  }
+
+  /* clients-information section end */
+
+
+
+  /* footer4 section start */
+  .footer-col1 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col2 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col3 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .footer-col4 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .footer-item1 {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+
+  .footer-item2 {
+    flex-basis: 100%;
+  }
+
+  .footer-item {
+    text-align: center;
+  }
+
+  .footer-box input {
+    width: 100%;
+  }
+
+  .footer-btn {
+    margin-left: -110px;
+  }
+
+  /* footer4 section end */
+
+
+  /* index page responsive end */
+
+
+
+
+  /* about page responsive start */
+  .about-banner {
+    margin-bottom: 60px;
+  }
+
+  .about-left-col {
+    margin-bottom: 30px;
+  }
+
+  .service-page h1 {
+    font-size: 35px;
+  }
+
+  /* about page responsive end */
+
+
+
+  /* contact page responsive start */
+
+  .contact-divider {
+    width: 200px;
+  }
+
+  .item-divider h3 {
+    font-size: 16px;
+  }
+
+  .contact-table h2 {
+    font-size: 29px;
+    text-align: center;
+
+  }
+
+  .contact-header {
+    margin: 30px 0px;
+  }
+
+  .contact-map {
+    margin: 50px 0px;
+  }
+
+  .contact-item {
+    flex-basis: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .contact-left-col {
+    flex-basis: 100%;
+    margin-bottom: 40px;
+  }
+
+  .contact-right-col {
+    flex-basis: 100%;
+    margin-top: 150px;
+  }
+
+  .contact-table {
+    padding: 50px 30px;
+
+  }
+
+  .mymap {
+    width: 104%;
+    height: 200%;
+  }
+
+}
+
+/* contact page responsive end */
+
+/* mobail veiw */
